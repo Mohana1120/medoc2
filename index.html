@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MEDOC</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+    body, html { height: 100%; width: 100%; }
+    .background {
+      background-image: url("{{ url_for('static', path='b5.jpg') }}");
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      position: relative;
+      color: #000;
+    }
+    .content {
+      position: absolute; top: 15%; right: 6%; max-width: 300px;
+    }
+    .content h1 { font-size: 36px; font-weight: 900; margin-bottom: 10px; }
+    .content p { font-size: 13px; margin-bottom: 16px; }
+    .content a.button {
+      display: inline-block;
+      background: linear-gradient(45deg, #0cbaba, #380036);
+      color: white;
+      padding: 8px 18px;
+      font-size: 13px;
+      font-weight: 600;
+      border-radius: 6px;
+      text-decoration: none;
+      margin-bottom: 20px;
+    }
+    .feature { margin-bottom: 12px; }
+    .feature h3 { font-size: 13px; font-weight: 600; margin-bottom: 3px; }
+    .feature p { font-size: 12px; }
+    .social-icons {
+      margin-top: 25px;
+    }
+    .social-icons a {
+      margin-right: 12px;
+      color: #000;
+      font-size: 18px;
+      transition: color 0.3s;
+    }
+    .social-icons a:hover {
+      color: #0cbaba;
+    }
+    @media (max-width: 768px) {
+      .content {
+        right: 5%; top: 10%; max-width: 90%; padding: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="background" style="background-image: url('b5.jpg');">
+    <div class="content">
+      <h1>MEDOC</h1>
+      <p>Your trusted AI partner for drug verification and personalized medication insights.</p>
+      
+      <!-- Streamlit app link -->
+      <a href="/frontend" class="button">Get Started</a>
+
+      <div class="feature">
+        <h3>Dosage Info</h3>
+        <p>Get precise age-based dosage recommendations.</p>
+      </div>
+      <div class="feature">
+        <h3>Drug Interactions</h3>
+        <p>Check compatibility with existing medications.</p>
+      </div>
+      <div class="feature">
+        <h3>Alternatives</h3>
+        <p>Find safer or more affordable alternatives.</p>
+      </div>
+
+      <div class="social-icons">
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-discord"></i></a>
+        <a onclick="sharePage()"><i class="fas fa-share-alt"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function sharePage() {
+      if (navigator.share) {
+        navigator.share({
+          title: 'MEDOC',
+          text: 'Check out MEDOC - your trusted AI partner for medication insights!',
+          url: window.location.href
+        }).catch((error) => console.log('Sharing failed', error));
+      } else {
+        alert('Web Share not supported on this browser.');
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,8990 @@
+[
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "250mg 1x/day",
+        "0-12": "10mg 2x/day",
+        "51+": "400mg 2x/day",
+        "13-18": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Loratadine",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg 2x/day",
+        "0-12": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as prescribed",
+        "19-35": "10mg as prescribed",
+        "0-12": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Salbutamol",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "51+": "875mg as prescribed",
+        "19-35": "500mg as prescribed",
+        "0-12": "400mg 3x/day",
+        "36-50": "650mg as prescribed",
+        "13-18": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Paracetamol",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 3x/day",
+        "51+": "600 IU as prescribed",
+        "36-50": "500mg 3x/day",
+        "13-18": "500mg as needed",
+        "19-35": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU as needed",
+        "19-35": "250mg 2x/day",
+        "0-12": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 2x/day",
+        "19-35": "875mg as needed",
+        "51+": "500mg 3x/day",
+        "36-50": "250mg 2x/day",
+        "0-12": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg 3x/day",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 3x/day",
+        "36-50": "2 puffs 3x/day",
+        "0-12": "2 puffs 3x/day",
+        "19-35": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Cetirizine",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "500mg 2x/day",
+        "13-18": "875mg as needed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 1x/day",
+        "13-18": "10mg 3x/day",
+        "51+": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU as needed",
+        "19-35": "2 puffs 1x/day",
+        "0-12": "2 puffs 1x/day",
+        "13-18": "400mg 1x/day",
+        "51+": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Vitamin D3",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 3x/day",
+        "0-12": "650mg as prescribed",
+        "51+": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Metformin",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 1x/day",
+        "19-35": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 2x/day",
+        "36-50": "10mg as prescribed",
+        "19-35": "875mg 1x/day",
+        "0-12": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 3x/day",
+        "36-50": "875mg 3x/day",
+        "0-12": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg 2x/day",
+        "13-18": "10mg as needed",
+        "19-35": "400mg as needed"
+      },
+      "interacts_with": [
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg as needed",
+        "36-50": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 1x/day",
+        "13-18": "2 puffs 2x/day",
+        "0-12": "250mg as prescribed",
+        "36-50": "500mg 2x/day",
+        "19-35": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Vitamin D3",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 1x/day",
+        "0-12": "600 IU 1x/day",
+        "13-18": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 3x/day",
+        "13-18": "500mg as needed",
+        "0-12": "400mg 1x/day",
+        "19-35": "10mg 3x/day",
+        "36-50": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 3x/day",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Paracetamol",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg 3x/day",
+        "13-18": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg as needed",
+        "36-50": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "51+": "400mg as needed"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg as needed",
+        "19-35": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Paracetamol",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 2x/day",
+        "36-50": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 2x/day",
+        "51+": "500mg 3x/day",
+        "0-12": "10mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg as prescribed",
+        "51+": "100mg 2x/day",
+        "13-18": "250mg as needed",
+        "0-12": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "36-50": "2 puffs 1x/day",
+        "13-18": "10mg 1x/day",
+        "19-35": "500mg as needed",
+        "51+": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 2x/day",
+        "0-12": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Ranitidine",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 3x/day",
+        "19-35": "10mg as needed"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "36-50": "2 puffs 3x/day",
+        "19-35": "10mg 3x/day",
+        "0-12": "400mg as needed"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Naproxen",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 3x/day",
+        "36-50": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU as prescribed",
+        "13-18": "10mg as needed",
+        "36-50": "400mg 2x/day",
+        "19-35": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 3x/day",
+        "36-50": "250mg as needed",
+        "13-18": "100mg 2x/day",
+        "19-35": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Omeprazole",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as prescribed",
+        "51+": "100mg 3x/day",
+        "13-18": "600 IU 3x/day",
+        "19-35": "400mg as needed",
+        "0-12": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Insulin",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 3x/day",
+        "51+": "600 IU 2x/day",
+        "0-12": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Dolo 650",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "600 IU as needed",
+        "0-12": "875mg as prescribed",
+        "36-50": "500mg as needed",
+        "13-18": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 2x/day",
+        "51+": "10mg 2x/day",
+        "13-18": "875mg 2x/day",
+        "0-12": "650mg 2x/day",
+        "36-50": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg 3x/day",
+        "19-35": "650mg 1x/day",
+        "51+": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Salbutamol",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 2x/day",
+        "19-35": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Insulin"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 2x/day",
+        "19-35": "2 puffs as prescribed",
+        "0-12": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Naproxen",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as prescribed",
+        "13-18": "875mg 1x/day",
+        "0-12": "400mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 2x/day",
+        "13-18": "10mg 2x/day",
+        "36-50": "400mg 1x/day",
+        "0-12": "500mg as needed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as needed",
+        "51+": "250mg as needed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Ranitidine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as prescribed",
+        "13-18": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg as needed",
+        "19-35": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 3x/day",
+        "13-18": "400mg as needed",
+        "0-12": "100mg as needed",
+        "51+": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Naproxen",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 3x/day",
+        "36-50": "650mg 3x/day",
+        "51+": "100mg 3x/day",
+        "13-18": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Aspirin",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 3x/day",
+        "51+": "600 IU 2x/day",
+        "0-12": "650mg as prescribed",
+        "19-35": "875mg 1x/day",
+        "13-18": "10mg 2x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 2x/day",
+        "19-35": "100mg as needed",
+        "36-50": "500mg 2x/day",
+        "0-12": "400mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg 3x/day",
+        "13-18": "10mg 3x/day",
+        "36-50": "2 puffs 3x/day",
+        "19-35": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Cetirizine",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg as prescribed",
+        "51+": "650mg as prescribed",
+        "36-50": "875mg 3x/day",
+        "19-35": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 1x/day",
+        "19-35": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 2x/day",
+        "36-50": "100mg 2x/day",
+        "13-18": "500mg as needed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Ibuprofen",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 3x/day",
+        "51+": "500mg as prescribed",
+        "13-18": "650mg 1x/day",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Losartan",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg as needed",
+        "36-50": "875mg as needed",
+        "51+": "650mg as prescribed",
+        "0-12": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 2x/day",
+        "19-35": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg as needed",
+        "13-18": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 2x/day",
+        "36-50": "400mg 2x/day",
+        "51+": "100mg 1x/day",
+        "13-18": "400mg 3x/day",
+        "19-35": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Ibuprofen",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as needed",
+        "51+": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg as needed",
+        "36-50": "500mg 1x/day",
+        "13-18": "10mg as prescribed",
+        "19-35": "250mg 2x/day",
+        "51+": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Paracetamol",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 1x/day",
+        "19-35": "500mg 3x/day",
+        "51+": "400mg as needed",
+        "0-12": "600 IU 2x/day",
+        "36-50": "875mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 1x/day",
+        "19-35": "2 puffs as prescribed",
+        "0-12": "600 IU 2x/day",
+        "51+": "250mg 2x/day",
+        "36-50": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "600 IU as needed",
+        "0-12": "500mg 1x/day",
+        "36-50": "250mg as prescribed",
+        "51+": "100mg 1x/day",
+        "13-18": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Insulin",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 2x/day",
+        "0-12": "500mg 1x/day",
+        "13-18": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg as needed",
+        "36-50": "10mg 1x/day",
+        "13-18": "875mg 3x/day",
+        "19-35": "10mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Ranitidine",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg 1x/day",
+        "36-50": "2 puffs as needed",
+        "51+": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Metformin",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as needed",
+        "51+": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg 3x/day",
+        "36-50": "600 IU 1x/day",
+        "0-12": "600 IU 2x/day",
+        "51+": "500mg as prescribed",
+        "19-35": "875mg as needed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Ranitidine",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg 3x/day",
+        "51+": "400mg 2x/day",
+        "13-18": "100mg as needed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 1x/day",
+        "19-35": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Amoxicillin",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU as prescribed",
+        "51+": "10mg 1x/day",
+        "19-35": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg 1x/day",
+        "19-35": "400mg as prescribed",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Metformin",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "500mg as prescribed",
+        "36-50": "650mg as needed",
+        "51+": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 2x/day",
+        "0-12": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Insulin"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg as needed",
+        "36-50": "100mg as needed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as needed",
+        "51+": "100mg 2x/day",
+        "19-35": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg as needed",
+        "0-12": "100mg 1x/day",
+        "36-50": "600 IU 2x/day",
+        "51+": "2 puffs 1x/day",
+        "19-35": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as prescribed",
+        "51+": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg as needed",
+        "36-50": "500mg 3x/day",
+        "13-18": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Aspirin",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 3x/day",
+        "19-35": "2 puffs 3x/day",
+        "0-12": "650mg as needed",
+        "13-18": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 2x/day",
+        "0-12": "2 puffs as prescribed",
+        "36-50": "600 IU as prescribed",
+        "13-18": "250mg 2x/day",
+        "51+": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Azithromycin",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs as prescribed",
+        "19-35": "400mg 3x/day",
+        "36-50": "2 puffs 3x/day",
+        "13-18": "250mg as prescribed",
+        "51+": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Ranitidine",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg as needed",
+        "51+": "100mg 2x/day",
+        "13-18": "875mg as needed",
+        "36-50": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Hydroxychloroquine",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 2x/day",
+        "19-35": "2 puffs 3x/day",
+        "36-50": "875mg as needed"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Metformin",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as needed",
+        "51+": "10mg as prescribed",
+        "13-18": "500mg as needed",
+        "0-12": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Losartan",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 3x/day",
+        "36-50": "400mg as needed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as needed",
+        "13-18": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Dolo 650",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 2x/day",
+        "51+": "250mg as prescribed",
+        "0-12": "250mg 3x/day",
+        "13-18": "650mg as needed",
+        "36-50": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 1x/day",
+        "19-35": "875mg 1x/day",
+        "51+": "400mg as prescribed",
+        "0-12": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 2x/day",
+        "19-35": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs as prescribed",
+        "0-12": "875mg 3x/day",
+        "13-18": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg 2x/day",
+        "51+": "500mg 1x/day",
+        "36-50": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "36-50": "600 IU as prescribed",
+        "51+": "10mg 1x/day",
+        "0-12": "650mg as needed",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Dolo 650",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg 1x/day",
+        "36-50": "250mg as needed",
+        "0-12": "10mg as needed",
+        "51+": "250mg 2x/day",
+        "13-18": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 1x/day",
+        "19-35": "100mg 1x/day",
+        "36-50": "2 puffs 3x/day",
+        "13-18": "10mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg as needed",
+        "13-18": "650mg 2x/day",
+        "51+": "600 IU as needed",
+        "36-50": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 1x/day",
+        "36-50": "600 IU 3x/day",
+        "0-12": "400mg 2x/day",
+        "51+": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 1x/day",
+        "36-50": "100mg as prescribed",
+        "0-12": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 1x/day",
+        "51+": "500mg as needed",
+        "0-12": "250mg as prescribed",
+        "19-35": "650mg as prescribed",
+        "36-50": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "19-35": "600 IU 1x/day",
+        "0-12": "100mg 1x/day",
+        "36-50": "650mg as prescribed",
+        "51+": "650mg as needed",
+        "13-18": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as prescribed",
+        "13-18": "400mg 1x/day",
+        "0-12": "400mg as prescribed",
+        "51+": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Naproxen",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg as needed",
+        "13-18": "2 puffs 3x/day",
+        "51+": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg as needed",
+        "51+": "10mg as needed",
+        "19-35": "650mg as needed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Insulin",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 3x/day",
+        "36-50": "650mg as needed",
+        "13-18": "250mg as needed",
+        "51+": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 2x/day",
+        "0-12": "10mg 3x/day",
+        "19-35": "875mg 3x/day",
+        "51+": "100mg 1x/day",
+        "36-50": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Amoxicillin",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 1x/day",
+        "13-18": "400mg as needed",
+        "36-50": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 3x/day",
+        "36-50": "600 IU 1x/day",
+        "0-12": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 3x/day",
+        "51+": "250mg as prescribed",
+        "19-35": "500mg 2x/day",
+        "0-12": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 3x/day",
+        "51+": "875mg 2x/day",
+        "19-35": "500mg 1x/day",
+        "36-50": "600 IU 1x/day",
+        "0-12": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg as needed",
+        "19-35": "2 puffs as prescribed",
+        "36-50": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg 1x/day",
+        "36-50": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Paracetamol",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 2x/day",
+        "19-35": "650mg as prescribed",
+        "36-50": "650mg 2x/day",
+        "13-18": "875mg as needed"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg as prescribed",
+        "51+": "500mg as needed",
+        "13-18": "650mg as prescribed",
+        "19-35": "250mg 1x/day",
+        "0-12": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as needed",
+        "0-12": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Amoxicillin",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg as needed",
+        "13-18": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 1x/day",
+        "19-35": "400mg as needed",
+        "0-12": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Paracetamol",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 2x/day",
+        "36-50": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg 2x/day",
+        "36-50": "250mg 2x/day",
+        "51+": "100mg 1x/day",
+        "13-18": "875mg 2x/day",
+        "19-35": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 1x/day",
+        "0-12": "250mg 3x/day",
+        "13-18": "500mg 1x/day",
+        "19-35": "250mg as prescribed",
+        "36-50": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 1x/day",
+        "36-50": "600 IU 2x/day",
+        "0-12": "2 puffs 3x/day",
+        "19-35": "100mg 2x/day",
+        "51+": "875mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg 1x/day",
+        "51+": "100mg as needed",
+        "36-50": "100mg 2x/day",
+        "0-12": "100mg as prescribed",
+        "19-35": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 3x/day",
+        "0-12": "600 IU 1x/day",
+        "19-35": "100mg as prescribed",
+        "13-18": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg as needed",
+        "19-35": "2 puffs 3x/day",
+        "36-50": "875mg as needed",
+        "13-18": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 2x/day",
+        "36-50": "250mg 2x/day",
+        "0-12": "500mg as needed",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg as needed",
+        "36-50": "500mg 1x/day",
+        "19-35": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg as prescribed",
+        "13-18": "500mg 2x/day",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "19-35": "400mg 3x/day",
+        "51+": "250mg 1x/day",
+        "36-50": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Dolo 650",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 2x/day",
+        "51+": "250mg as needed",
+        "36-50": "500mg as needed",
+        "13-18": "2 puffs as prescribed",
+        "0-12": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 2x/day",
+        "0-12": "650mg 3x/day",
+        "36-50": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg 3x/day",
+        "19-35": "400mg 3x/day",
+        "0-12": "10mg as needed",
+        "51+": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 1x/day",
+        "19-35": "10mg as needed",
+        "0-12": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg as prescribed",
+        "36-50": "100mg 1x/day",
+        "13-18": "2 puffs as prescribed",
+        "51+": "500mg as prescribed",
+        "19-35": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Hydroxychloroquine",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg as prescribed",
+        "13-18": "100mg as needed",
+        "36-50": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 3x/day",
+        "0-12": "600 IU 2x/day",
+        "19-35": "400mg 3x/day",
+        "51+": "10mg 1x/day",
+        "13-18": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Omeprazole",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg as prescribed",
+        "19-35": "10mg as needed",
+        "36-50": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 1x/day",
+        "13-18": "600 IU 2x/day",
+        "36-50": "10mg 3x/day",
+        "0-12": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg 2x/day",
+        "0-12": "100mg 3x/day",
+        "51+": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "500mg 1x/day",
+        "36-50": "400mg 1x/day",
+        "13-18": "250mg as needed",
+        "19-35": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 1x/day",
+        "19-35": "100mg as needed"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 1x/day",
+        "0-12": "10mg 1x/day",
+        "13-18": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 2x/day",
+        "36-50": "250mg 3x/day",
+        "19-35": "10mg as needed",
+        "51+": "2 puffs as prescribed",
+        "0-12": "10mg 2x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs as needed",
+        "19-35": "100mg as prescribed",
+        "51+": "250mg as prescribed",
+        "13-18": "500mg as prescribed",
+        "36-50": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU as prescribed",
+        "19-35": "500mg as needed",
+        "13-18": "650mg as prescribed",
+        "36-50": "650mg 3x/day",
+        "51+": "650mg as needed"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Vitamin D3",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 3x/day",
+        "51+": "500mg as needed",
+        "36-50": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 1x/day",
+        "13-18": "875mg 1x/day",
+        "36-50": "100mg 3x/day",
+        "19-35": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 1x/day",
+        "51+": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Prednisone",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 1x/day",
+        "19-35": "875mg 1x/day",
+        "13-18": "875mg as needed",
+        "0-12": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg 2x/day",
+        "0-12": "2 puffs as prescribed",
+        "13-18": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Vitamin D3",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 3x/day",
+        "0-12": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Loratadine",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "875mg 3x/day",
+        "13-18": "875mg 1x/day",
+        "0-12": "250mg 1x/day",
+        "19-35": "875mg as prescribed",
+        "36-50": "650mg as needed"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Cetirizine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as needed",
+        "51+": "600 IU as needed",
+        "0-12": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Cefixime",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 2x/day",
+        "36-50": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Naproxen",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg as needed",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg as prescribed",
+        "51+": "100mg as needed",
+        "36-50": "250mg 3x/day",
+        "0-12": "600 IU 3x/day",
+        "13-18": "10mg as needed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg 3x/day",
+        "19-35": "650mg as needed",
+        "13-18": "250mg 1x/day",
+        "51+": "500mg as needed",
+        "36-50": "500mg as needed"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 3x/day",
+        "0-12": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 3x/day",
+        "19-35": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as prescribed",
+        "19-35": "10mg 2x/day",
+        "51+": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as needed",
+        "13-18": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Insulin"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 2x/day",
+        "19-35": "100mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "36-50": "600 IU 2x/day",
+        "19-35": "100mg 2x/day",
+        "51+": "875mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 3x/day",
+        "19-35": "650mg as needed",
+        "13-18": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 3x/day",
+        "0-12": "500mg 3x/day",
+        "36-50": "875mg as needed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 3x/day",
+        "0-12": "2 puffs as prescribed",
+        "51+": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Cetirizine",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 2x/day",
+        "19-35": "400mg 3x/day",
+        "13-18": "400mg 2x/day",
+        "51+": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 1x/day",
+        "51+": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU 3x/day",
+        "13-18": "10mg 1x/day",
+        "51+": "600 IU 1x/day",
+        "36-50": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Cefixime",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 1x/day",
+        "13-18": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "0-12": "500mg 1x/day",
+        "19-35": "650mg as prescribed",
+        "36-50": "2 puffs 3x/day",
+        "51+": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Cetirizine",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as needed",
+        "51+": "650mg as needed",
+        "19-35": "500mg 2x/day",
+        "0-12": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Hydroxychloroquine",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg as needed",
+        "51+": "875mg 3x/day",
+        "19-35": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg as needed",
+        "13-18": "875mg as prescribed",
+        "0-12": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Prednisone",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as needed",
+        "13-18": "650mg as needed",
+        "19-35": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Losartan",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as needed",
+        "51+": "100mg 2x/day",
+        "13-18": "2 puffs as prescribed",
+        "0-12": "100mg 3x/day",
+        "36-50": "10mg as needed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg as needed",
+        "51+": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as needed",
+        "51+": "2 puffs as prescribed",
+        "19-35": "2 puffs as prescribed",
+        "0-12": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Naproxen",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 1x/day",
+        "19-35": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Insulin"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 2x/day",
+        "19-35": "875mg as needed"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Ranitidine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 3x/day",
+        "51+": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 1x/day",
+        "36-50": "10mg 2x/day",
+        "19-35": "2 puffs 2x/day",
+        "51+": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs as prescribed",
+        "19-35": "875mg as prescribed",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 2x/day",
+        "19-35": "100mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "51+": "875mg 1x/day",
+        "13-18": "100mg 1x/day",
+        "0-12": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Insulin",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 2x/day",
+        "51+": "2 puffs 2x/day",
+        "0-12": "650mg 2x/day",
+        "36-50": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Cetirizine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg 3x/day",
+        "0-12": "875mg 2x/day",
+        "13-18": "400mg 2x/day",
+        "36-50": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs as needed",
+        "13-18": "2 puffs as needed",
+        "19-35": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Omeprazole",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 3x/day",
+        "0-12": "250mg 3x/day",
+        "51+": "500mg 3x/day",
+        "36-50": "400mg as prescribed",
+        "19-35": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg as prescribed",
+        "0-12": "250mg as prescribed",
+        "19-35": "2 puffs as prescribed",
+        "51+": "875mg as prescribed",
+        "36-50": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "600 IU 2x/day",
+        "13-18": "250mg 2x/day",
+        "36-50": "500mg 2x/day",
+        "51+": "650mg 1x/day",
+        "0-12": "875mg as needed"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "19-35": "100mg 1x/day",
+        "0-12": "250mg as needed",
+        "51+": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Aspirin",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 1x/day",
+        "36-50": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Losartan",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 2x/day",
+        "51+": "400mg as needed",
+        "19-35": "250mg as needed"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Ranitidine",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 3x/day",
+        "36-50": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 1x/day",
+        "51+": "600 IU as needed",
+        "0-12": "650mg 1x/day",
+        "19-35": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg 2x/day",
+        "51+": "650mg 3x/day",
+        "19-35": "650mg 2x/day",
+        "13-18": "2 puffs 2x/day",
+        "0-12": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs 3x/day",
+        "36-50": "250mg 1x/day",
+        "51+": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Salbutamol",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs as needed",
+        "19-35": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as prescribed",
+        "51+": "100mg 1x/day",
+        "19-35": "100mg as needed",
+        "13-18": "2 puffs 3x/day",
+        "0-12": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg as prescribed",
+        "51+": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Azithromycin",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg 1x/day",
+        "51+": "400mg as needed",
+        "13-18": "400mg 1x/day",
+        "0-12": "600 IU 3x/day",
+        "19-35": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Cefixime",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg 1x/day",
+        "51+": "875mg as prescribed",
+        "19-35": "875mg 2x/day",
+        "36-50": "600 IU 2x/day",
+        "0-12": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 1x/day",
+        "13-18": "400mg 3x/day",
+        "0-12": "650mg as prescribed",
+        "19-35": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 2x/day",
+        "0-12": "100mg as needed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg as prescribed",
+        "19-35": "500mg 3x/day",
+        "0-12": "10mg 2x/day",
+        "36-50": "100mg as needed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Dolo 650",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 3x/day",
+        "0-12": "10mg 1x/day",
+        "51+": "2 puffs 1x/day",
+        "19-35": "500mg as prescribed",
+        "36-50": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 2x/day",
+        "13-18": "600 IU as needed",
+        "51+": "100mg 2x/day",
+        "0-12": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Insulin",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 2x/day",
+        "0-12": "400mg as prescribed",
+        "19-35": "10mg 2x/day",
+        "36-50": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Paracetamol",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "250mg as prescribed",
+        "19-35": "650mg as prescribed",
+        "13-18": "100mg 3x/day",
+        "0-12": "10mg as needed",
+        "51+": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg 3x/day",
+        "51+": "875mg 1x/day",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg as needed",
+        "36-50": "650mg 2x/day",
+        "51+": "10mg as prescribed",
+        "0-12": "250mg as needed",
+        "13-18": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Prednisone",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as needed",
+        "13-18": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 3x/day",
+        "19-35": "875mg as prescribed",
+        "13-18": "600 IU 2x/day",
+        "0-12": "100mg 3x/day",
+        "36-50": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 2x/day",
+        "51+": "875mg as needed",
+        "0-12": "500mg 2x/day",
+        "36-50": "2 puffs 2x/day",
+        "13-18": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 3x/day",
+        "36-50": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg as needed",
+        "13-18": "2 puffs as needed",
+        "36-50": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg 3x/day",
+        "36-50": "600 IU 3x/day",
+        "0-12": "500mg 3x/day",
+        "51+": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Insulin"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 1x/day",
+        "51+": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg as prescribed",
+        "0-12": "250mg as prescribed",
+        "13-18": "875mg as needed",
+        "51+": "500mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg as needed",
+        "51+": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 2x/day",
+        "19-35": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Aspirin",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU 2x/day",
+        "13-18": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 1x/day",
+        "51+": "250mg 1x/day",
+        "13-18": "650mg 2x/day",
+        "36-50": "875mg as prescribed",
+        "0-12": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg as prescribed",
+        "51+": "400mg 1x/day",
+        "0-12": "500mg as needed",
+        "13-18": "100mg as prescribed",
+        "36-50": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 1x/day",
+        "19-35": "600 IU 3x/day",
+        "36-50": "100mg as prescribed",
+        "51+": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg as needed",
+        "36-50": "650mg as needed",
+        "19-35": "500mg as needed",
+        "13-18": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Losartan",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 3x/day",
+        "0-12": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg as prescribed",
+        "19-35": "400mg 3x/day",
+        "13-18": "250mg as prescribed",
+        "36-50": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg as prescribed",
+        "36-50": "10mg as needed",
+        "51+": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs as prescribed",
+        "19-35": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Naproxen",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 2x/day",
+        "19-35": "600 IU as prescribed",
+        "13-18": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as prescribed",
+        "36-50": "400mg as needed",
+        "13-18": "650mg as needed",
+        "51+": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Dolo 650",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg 2x/day",
+        "13-18": "400mg as prescribed",
+        "36-50": "600 IU 3x/day",
+        "51+": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 3x/day",
+        "19-35": "600 IU 2x/day",
+        "13-18": "400mg 2x/day",
+        "51+": "600 IU 3x/day",
+        "36-50": "10mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 2x/day",
+        "13-18": "875mg as needed",
+        "19-35": "2 puffs 2x/day",
+        "0-12": "875mg as prescribed",
+        "36-50": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 1x/day",
+        "19-35": "2 puffs 2x/day",
+        "51+": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU as prescribed",
+        "0-12": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Dolo 650",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU 3x/day",
+        "19-35": "250mg as needed",
+        "13-18": "875mg 1x/day",
+        "51+": "2 puffs as needed",
+        "36-50": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 3x/day",
+        "36-50": "500mg as needed"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg 2x/day",
+        "51+": "10mg 3x/day",
+        "36-50": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Ranitidine",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 2x/day",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 3x/day",
+        "19-35": "100mg 3x/day",
+        "36-50": "650mg 2x/day",
+        "13-18": "250mg as needed"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg 3x/day",
+        "51+": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 2x/day",
+        "36-50": "600 IU 2x/day",
+        "13-18": "400mg 2x/day",
+        "19-35": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 3x/day",
+        "13-18": "400mg 3x/day",
+        "0-12": "650mg as needed"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 1x/day",
+        "0-12": "2 puffs 2x/day",
+        "13-18": "2 puffs 2x/day",
+        "19-35": "2 puffs 1x/day",
+        "36-50": "250mg as needed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Azithromycin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as needed",
+        "51+": "875mg as needed",
+        "13-18": "10mg 2x/day",
+        "0-12": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Naproxen",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU as needed",
+        "36-50": "100mg as prescribed",
+        "13-18": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 3x/day",
+        "51+": "500mg as needed",
+        "0-12": "250mg 1x/day",
+        "13-18": "250mg 2x/day",
+        "19-35": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "875mg 2x/day",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 3x/day",
+        "36-50": "400mg as prescribed",
+        "19-35": "10mg 3x/day",
+        "51+": "250mg as needed"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg as prescribed",
+        "36-50": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg as prescribed",
+        "51+": "10mg 3x/day",
+        "0-12": "250mg 3x/day",
+        "19-35": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Loratadine",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 3x/day",
+        "13-18": "400mg 1x/day",
+        "36-50": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg as prescribed",
+        "13-18": "600 IU as prescribed",
+        "36-50": "100mg as prescribed",
+        "51+": "650mg as needed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg as prescribed",
+        "19-35": "100mg 1x/day",
+        "0-12": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Azithromycin",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 2x/day",
+        "51+": "10mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU as prescribed",
+        "13-18": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 2x/day",
+        "13-18": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg as prescribed",
+        "19-35": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg 2x/day",
+        "36-50": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg 1x/day",
+        "51+": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 1x/day",
+        "13-18": "100mg as prescribed",
+        "19-35": "2 puffs 3x/day",
+        "36-50": "400mg as prescribed",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg as prescribed",
+        "19-35": "400mg as prescribed",
+        "36-50": "400mg as needed",
+        "0-12": "875mg as needed",
+        "51+": "500mg as needed"
+      },
+      "interacts_with": [
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg as needed",
+        "13-18": "2 puffs 1x/day",
+        "19-35": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 2x/day",
+        "13-18": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 3x/day",
+        "36-50": "100mg as needed",
+        "13-18": "400mg 2x/day",
+        "0-12": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Cefixime",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg 2x/day",
+        "0-12": "100mg 3x/day",
+        "19-35": "2 puffs 2x/day",
+        "13-18": "875mg 1x/day",
+        "51+": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Cetirizine",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg as prescribed",
+        "36-50": "500mg as needed",
+        "13-18": "875mg 1x/day",
+        "51+": "400mg 1x/day",
+        "0-12": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Losartan",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as prescribed",
+        "13-18": "2 puffs as needed",
+        "19-35": "875mg 2x/day",
+        "0-12": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Loratadine",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg as needed",
+        "0-12": "400mg 3x/day",
+        "19-35": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Cetirizine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg as needed",
+        "0-12": "650mg 2x/day",
+        "51+": "875mg as needed",
+        "36-50": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as needed",
+        "0-12": "650mg as prescribed",
+        "19-35": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg as prescribed",
+        "36-50": "500mg 2x/day",
+        "19-35": "10mg as needed",
+        "13-18": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Loratadine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 1x/day",
+        "19-35": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Cefixime",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 2x/day",
+        "13-18": "875mg as prescribed",
+        "51+": "500mg as needed",
+        "0-12": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Cetirizine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs as prescribed",
+        "0-12": "500mg as prescribed",
+        "13-18": "2 puffs 2x/day",
+        "19-35": "400mg as needed",
+        "36-50": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Hydroxychloroquine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg as needed",
+        "0-12": "10mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 2x/day",
+        "19-35": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Hydroxychloroquine",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as needed",
+        "13-18": "400mg 1x/day",
+        "0-12": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg as prescribed",
+        "13-18": "100mg as prescribed",
+        "51+": "100mg 1x/day",
+        "0-12": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "250mg 2x/day",
+        "0-12": "100mg 2x/day",
+        "51+": "650mg 2x/day",
+        "19-35": "500mg as needed",
+        "13-18": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 3x/day",
+        "13-18": "2 puffs as prescribed",
+        "19-35": "400mg 3x/day",
+        "51+": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as prescribed",
+        "19-35": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg 2x/day",
+        "19-35": "650mg 2x/day",
+        "0-12": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg 2x/day",
+        "13-18": "875mg as prescribed",
+        "51+": "400mg as prescribed",
+        "0-12": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "36-50": "2 puffs 2x/day",
+        "0-12": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 1x/day",
+        "19-35": "600 IU 1x/day",
+        "13-18": "250mg 3x/day",
+        "36-50": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg as needed",
+        "0-12": "650mg as prescribed",
+        "13-18": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg as prescribed",
+        "19-35": "650mg as needed",
+        "0-12": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 2x/day",
+        "0-12": "500mg 1x/day",
+        "19-35": "600 IU 1x/day",
+        "51+": "100mg as prescribed",
+        "13-18": "10mg as needed"
+      },
+      "interacts_with": [
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 3x/day",
+        "51+": "2 puffs as needed",
+        "0-12": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Naproxen",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as needed",
+        "36-50": "500mg as prescribed",
+        "13-18": "2 puffs as prescribed",
+        "0-12": "2 puffs 3x/day",
+        "51+": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Paracetamol",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 3x/day",
+        "0-12": "250mg as prescribed",
+        "36-50": "500mg 3x/day",
+        "19-35": "600 IU 3x/day",
+        "13-18": "250mg as needed"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg as needed",
+        "13-18": "600 IU 2x/day",
+        "0-12": "600 IU as needed",
+        "36-50": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Losartan",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs 2x/day",
+        "19-35": "10mg 2x/day",
+        "0-12": "500mg 2x/day",
+        "36-50": "10mg 2x/day"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg as needed",
+        "51+": "250mg 1x/day",
+        "19-35": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU as prescribed",
+        "13-18": "10mg 3x/day",
+        "0-12": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "19-35": "600 IU 3x/day",
+        "36-50": "400mg 2x/day",
+        "51+": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg 2x/day",
+        "36-50": "2 puffs 3x/day",
+        "51+": "10mg as prescribed",
+        "13-18": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg as needed",
+        "0-12": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg as needed",
+        "0-12": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 3x/day",
+        "51+": "500mg 3x/day",
+        "36-50": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Loratadine",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 1x/day",
+        "51+": "250mg 2x/day",
+        "13-18": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as needed",
+        "0-12": "400mg as prescribed",
+        "19-35": "10mg as needed",
+        "13-18": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs as prescribed",
+        "51+": "650mg 2x/day",
+        "0-12": "875mg 3x/day",
+        "36-50": "600 IU as needed",
+        "19-35": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "51+": "875mg 2x/day",
+        "36-50": "400mg as prescribed",
+        "19-35": "10mg as needed",
+        "13-18": "400mg as needed",
+        "0-12": "10mg as needed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg as needed",
+        "36-50": "10mg as prescribed",
+        "19-35": "500mg 2x/day",
+        "51+": "100mg as prescribed",
+        "13-18": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 1x/day",
+        "19-35": "250mg 1x/day",
+        "36-50": "250mg 2x/day",
+        "0-12": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 3x/day",
+        "36-50": "600 IU as needed",
+        "13-18": "10mg as prescribed",
+        "19-35": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Prednisone",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg as needed",
+        "13-18": "875mg 3x/day",
+        "19-35": "600 IU 2x/day",
+        "36-50": "875mg as needed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 3x/day",
+        "19-35": "2 puffs 2x/day",
+        "0-12": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg as needed",
+        "51+": "500mg 3x/day",
+        "36-50": "600 IU 2x/day",
+        "0-12": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "19-35": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 2x/day",
+        "0-12": "100mg 3x/day",
+        "51+": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Levocetirizine",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 1x/day",
+        "0-12": "500mg 1x/day",
+        "51+": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Levocetirizine",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg as needed",
+        "51+": "500mg 1x/day",
+        "36-50": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 3x/day",
+        "13-18": "875mg 1x/day",
+        "0-12": "650mg as needed",
+        "51+": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Aspirin",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 2x/day",
+        "19-35": "250mg 2x/day",
+        "13-18": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Ibuprofen",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg as prescribed",
+        "19-35": "500mg as needed",
+        "36-50": "600 IU as prescribed",
+        "51+": "10mg as needed"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Hydroxychloroquine",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 1x/day",
+        "0-12": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 2x/day",
+        "0-12": "600 IU as needed",
+        "36-50": "10mg 3x/day",
+        "51+": "600 IU as needed",
+        "19-35": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg as prescribed",
+        "19-35": "400mg 3x/day",
+        "36-50": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Insulin",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 1x/day",
+        "19-35": "500mg 1x/day",
+        "51+": "2 puffs as prescribed",
+        "0-12": "100mg as needed",
+        "36-50": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 1x/day",
+        "51+": "250mg as prescribed",
+        "36-50": "10mg 2x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg 3x/day",
+        "51+": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 1x/day",
+        "36-50": "650mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Levocetirizine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 1x/day",
+        "13-18": "250mg 2x/day",
+        "36-50": "10mg as needed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 2x/day",
+        "36-50": "250mg 1x/day",
+        "0-12": "400mg 1x/day",
+        "51+": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg as prescribed",
+        "0-12": "10mg 1x/day",
+        "36-50": "250mg 3x/day",
+        "51+": "875mg as needed",
+        "19-35": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg 3x/day",
+        "13-18": "250mg as prescribed",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Losartan",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 2x/day",
+        "19-35": "250mg 1x/day",
+        "13-18": "2 puffs 3x/day",
+        "0-12": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU as needed",
+        "19-35": "2 puffs 2x/day",
+        "13-18": "400mg 1x/day",
+        "36-50": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Cetirizine",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg as prescribed",
+        "19-35": "600 IU 2x/day",
+        "0-12": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 3x/day",
+        "51+": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg 3x/day",
+        "19-35": "250mg 3x/day",
+        "13-18": "10mg 2x/day",
+        "0-12": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 2x/day",
+        "0-12": "500mg as prescribed",
+        "51+": "250mg 1x/day",
+        "13-18": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg 3x/day",
+        "19-35": "600 IU 3x/day",
+        "13-18": "600 IU 1x/day",
+        "36-50": "250mg 1x/day",
+        "0-12": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as needed",
+        "13-18": "10mg 3x/day",
+        "0-12": "100mg as needed",
+        "36-50": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg 2x/day",
+        "36-50": "250mg 2x/day",
+        "51+": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 1x/day",
+        "0-12": "600 IU as prescribed",
+        "13-18": "100mg as prescribed",
+        "51+": "400mg as needed",
+        "36-50": "875mg as needed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Vitamin D3",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 2x/day",
+        "51+": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg as prescribed",
+        "19-35": "500mg 2x/day",
+        "51+": "250mg as needed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Vitamin D3",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg as needed",
+        "51+": "10mg 2x/day",
+        "36-50": "500mg as prescribed",
+        "13-18": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Omeprazole",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg as prescribed",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as prescribed",
+        "36-50": "400mg as prescribed",
+        "51+": "650mg as prescribed",
+        "0-12": "10mg as needed",
+        "19-35": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 2x/day",
+        "0-12": "100mg 2x/day",
+        "51+": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Insulin",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 3x/day",
+        "13-18": "650mg 1x/day",
+        "36-50": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg as needed",
+        "19-35": "2 puffs 1x/day",
+        "13-18": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Dolo 650",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 3x/day",
+        "13-18": "10mg as needed",
+        "51+": "600 IU as needed",
+        "0-12": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Insulin",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg as needed",
+        "0-12": "875mg 1x/day",
+        "51+": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 3x/day",
+        "19-35": "650mg 1x/day",
+        "0-12": "100mg 1x/day",
+        "51+": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Losartan",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Insulin",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg as needed",
+        "36-50": "2 puffs 3x/day",
+        "0-12": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 2x/day",
+        "36-50": "875mg 3x/day",
+        "0-12": "250mg as prescribed",
+        "51+": "875mg 2x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg as prescribed",
+        "51+": "875mg 1x/day",
+        "36-50": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 1x/day",
+        "51+": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Aspirin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 3x/day",
+        "36-50": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Cetirizine",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs as prescribed",
+        "51+": "875mg 3x/day",
+        "36-50": "500mg 3x/day",
+        "0-12": "875mg 3x/day",
+        "19-35": "500mg as needed"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as prescribed",
+        "36-50": "100mg 3x/day",
+        "51+": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Ranitidine",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as prescribed",
+        "51+": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Hydroxychloroquine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "500mg 2x/day",
+        "19-35": "600 IU as prescribed",
+        "36-50": "10mg as needed"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Loratadine",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 2x/day",
+        "0-12": "875mg 2x/day",
+        "51+": "600 IU 2x/day",
+        "13-18": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg as prescribed",
+        "19-35": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "36-50": "250mg 2x/day",
+        "51+": "100mg as prescribed",
+        "13-18": "650mg as prescribed",
+        "0-12": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg as needed",
+        "13-18": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Omeprazole",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg as needed",
+        "51+": "10mg as needed"
+      },
+      "interacts_with": [
+        "Insulin"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 3x/day",
+        "13-18": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg 2x/day",
+        "0-12": "600 IU 1x/day",
+        "13-18": "250mg as prescribed",
+        "19-35": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg as prescribed",
+        "36-50": "250mg as needed",
+        "0-12": "650mg as prescribed",
+        "13-18": "400mg 3x/day",
+        "51+": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Amoxicillin",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 1x/day",
+        "36-50": "400mg 1x/day",
+        "51+": "2 puffs as prescribed",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg as needed",
+        "0-12": "400mg as needed",
+        "51+": "100mg as needed",
+        "13-18": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 2x/day",
+        "19-35": "875mg 3x/day",
+        "36-50": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 3x/day",
+        "0-12": "250mg 3x/day",
+        "13-18": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 1x/day",
+        "0-12": "100mg 1x/day",
+        "51+": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 2x/day",
+        "36-50": "10mg 2x/day",
+        "19-35": "650mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 3x/day",
+        "36-50": "10mg 1x/day",
+        "13-18": "875mg 1x/day",
+        "19-35": "650mg 3x/day",
+        "0-12": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg 3x/day",
+        "19-35": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 3x/day",
+        "36-50": "400mg 2x/day",
+        "19-35": "500mg as needed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Salbutamol",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 3x/day",
+        "19-35": "875mg as needed",
+        "13-18": "100mg as needed",
+        "51+": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Metformin",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 1x/day",
+        "13-18": "250mg 3x/day",
+        "51+": "10mg 2x/day",
+        "36-50": "875mg 3x/day",
+        "0-12": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 2x/day",
+        "36-50": "100mg 1x/day",
+        "0-12": "250mg 1x/day",
+        "13-18": "600 IU 1x/day",
+        "19-35": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Naproxen",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 2x/day",
+        "0-12": "875mg as prescribed",
+        "51+": "400mg 3x/day",
+        "36-50": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Azithromycin",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 1x/day",
+        "36-50": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "0-12": "875mg as needed",
+        "36-50": "875mg 2x/day",
+        "19-35": "10mg 1x/day",
+        "51+": "100mg 2x/day",
+        "13-18": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Hydroxychloroquine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg 1x/day",
+        "13-18": "2 puffs 3x/day",
+        "0-12": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Paracetamol",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as needed",
+        "13-18": "100mg as prescribed",
+        "0-12": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Loratadine",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 2x/day",
+        "19-35": "2 puffs as needed",
+        "36-50": "400mg 3x/day",
+        "51+": "250mg as needed"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as needed",
+        "13-18": "100mg 3x/day",
+        "51+": "100mg as needed"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 2x/day",
+        "0-12": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Azithromycin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "36-50": "250mg as prescribed",
+        "19-35": "650mg 2x/day",
+        "51+": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Vitamin D3",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "0-12": "500mg 3x/day",
+        "36-50": "650mg as prescribed",
+        "51+": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Amoxicillin",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 3x/day",
+        "36-50": "650mg 3x/day",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg as needed",
+        "51+": "250mg 1x/day",
+        "0-12": "10mg as prescribed",
+        "13-18": "500mg as needed"
+      },
+      "interacts_with": [
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Paracetamol",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 2x/day",
+        "0-12": "400mg 3x/day",
+        "13-18": "500mg as needed",
+        "19-35": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Metformin",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg as needed",
+        "51+": "875mg 2x/day",
+        "0-12": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg 2x/day",
+        "51+": "875mg 2x/day",
+        "36-50": "600 IU 1x/day",
+        "13-18": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 2x/day",
+        "36-50": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Loratadine",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU as prescribed",
+        "0-12": "650mg 2x/day",
+        "51+": "500mg 3x/day",
+        "19-35": "400mg as needed",
+        "13-18": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 2x/day",
+        "51+": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 2x/day",
+        "36-50": "250mg 2x/day",
+        "51+": "650mg 2x/day",
+        "13-18": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg 2x/day",
+        "36-50": "500mg as needed",
+        "19-35": "500mg 1x/day",
+        "51+": "10mg 2x/day",
+        "13-18": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg as needed",
+        "36-50": "500mg as needed",
+        "13-18": "500mg 1x/day",
+        "19-35": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg as needed",
+        "0-12": "875mg 3x/day",
+        "51+": "250mg as prescribed",
+        "13-18": "500mg 1x/day",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Prednisone",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg as needed",
+        "51+": "600 IU 3x/day",
+        "13-18": "875mg 2x/day",
+        "36-50": "500mg 3x/day",
+        "19-35": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 3x/day",
+        "51+": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs as prescribed",
+        "13-18": "10mg as prescribed",
+        "51+": "2 puffs 1x/day",
+        "36-50": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Paracetamol",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg 3x/day",
+        "19-35": "400mg 2x/day",
+        "36-50": "100mg 3x/day",
+        "51+": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs as prescribed",
+        "36-50": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Salbutamol",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Levocetirizine",
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg 2x/day",
+        "0-12": "500mg 3x/day",
+        "51+": "500mg 2x/day",
+        "19-35": "2 puffs 3x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg as prescribed",
+        "36-50": "2 puffs 2x/day",
+        "13-18": "875mg 1x/day",
+        "0-12": "500mg 3x/day",
+        "51+": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Cetirizine",
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Hydroxychloroquine",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 1x/day",
+        "13-18": "100mg 3x/day",
+        "0-12": "875mg as prescribed",
+        "51+": "500mg 2x/day",
+        "36-50": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg as prescribed",
+        "36-50": "400mg as prescribed",
+        "0-12": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg 3x/day",
+        "13-18": "100mg 2x/day",
+        "51+": "500mg 1x/day",
+        "0-12": "650mg 1x/day",
+        "19-35": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Loratadine",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg as needed",
+        "13-18": "650mg as prescribed",
+        "51+": "250mg 2x/day",
+        "36-50": "2 puffs as needed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 3x/day",
+        "13-18": "650mg as needed",
+        "0-12": "650mg as needed",
+        "36-50": "500mg 3x/day",
+        "19-35": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Azithromycin",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 2x/day",
+        "0-12": "250mg 2x/day",
+        "36-50": "400mg 2x/day",
+        "13-18": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Prednisone",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg as prescribed",
+        "51+": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Azithromycin",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 3x/day",
+        "19-35": "400mg as prescribed",
+        "51+": "650mg 1x/day",
+        "13-18": "500mg as prescribed",
+        "0-12": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Dolo 650",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "2 puffs as prescribed",
+        "0-12": "600 IU as prescribed",
+        "13-18": "600 IU 3x/day",
+        "19-35": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Amoxicillin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 2x/day",
+        "0-12": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Azithromycin",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU 1x/day",
+        "36-50": "250mg 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 2x/day",
+        "51+": "650mg 3x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg as needed",
+        "36-50": "875mg as prescribed",
+        "19-35": "250mg as prescribed",
+        "13-18": "650mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Loratadine",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as needed",
+        "0-12": "100mg 3x/day",
+        "51+": "500mg 3x/day",
+        "19-35": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Insulin",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "36-50": "400mg as prescribed",
+        "0-12": "100mg 2x/day",
+        "51+": "875mg as needed",
+        "19-35": "400mg 1x/day",
+        "13-18": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Losartan",
+        "Dolo 650",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 2x/day",
+        "19-35": "10mg as needed",
+        "0-12": "100mg 2x/day",
+        "13-18": "875mg 2x/day",
+        "36-50": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Dolo 650",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg 1x/day",
+        "19-35": "10mg 1x/day",
+        "0-12": "2 puffs 3x/day",
+        "36-50": "250mg 1x/day",
+        "51+": "250mg as needed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Omeprazole"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg as prescribed",
+        "51+": "875mg 3x/day",
+        "0-12": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Loratadine",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs as prescribed",
+        "51+": "10mg as needed"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Loratadine",
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Cefixime",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "51+": "650mg 2x/day",
+        "0-12": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg 3x/day",
+        "0-12": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Ranitidine",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as prescribed",
+        "36-50": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "250mg 1x/day",
+        "0-12": "400mg 2x/day",
+        "51+": "650mg 2x/day",
+        "13-18": "875mg 3x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "0-12": "250mg 3x/day",
+        "13-18": "400mg 3x/day",
+        "51+": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg 3x/day",
+        "13-18": "500mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Cetirizine",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Dolo 650",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg as needed",
+        "0-12": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "36-50": "10mg as prescribed",
+        "51+": "875mg as prescribed",
+        "13-18": "650mg as prescribed",
+        "19-35": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "51+": "2 puffs as prescribed",
+        "0-12": "600 IU as needed",
+        "19-35": "500mg as needed",
+        "13-18": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "500mg 3x/day",
+        "13-18": "400mg as prescribed",
+        "0-12": "600 IU 2x/day",
+        "51+": "400mg 1x/day",
+        "36-50": "250mg as needed"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Dolo 650",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs 1x/day",
+        "19-35": "10mg 2x/day",
+        "36-50": "250mg 1x/day",
+        "0-12": "250mg as needed"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Insulin"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 2x/day",
+        "19-35": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Ibuprofen",
+        "Insulin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 1x/day",
+        "36-50": "500mg as needed",
+        "0-12": "650mg 1x/day",
+        "13-18": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg 2x/day",
+        "0-12": "2 puffs 2x/day",
+        "13-18": "875mg 1x/day",
+        "51+": "875mg as needed"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 1x/day",
+        "19-35": "400mg 2x/day",
+        "13-18": "250mg 1x/day"
+      },
+      "interacts_with": [
+        "Metformin"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "500mg as prescribed",
+        "51+": "650mg as needed"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg 3x/day",
+        "51+": "10mg 1x/day",
+        "0-12": "250mg 3x/day",
+        "13-18": "650mg 1x/day"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Cefixime"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg 3x/day",
+        "19-35": "500mg as needed",
+        "36-50": "600 IU 3x/day",
+        "51+": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "650mg as prescribed",
+        "36-50": "875mg as needed",
+        "51+": "250mg as needed"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Amoxicillin",
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "400mg as prescribed",
+        "0-12": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Loratadine",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU 2x/day",
+        "0-12": "650mg as prescribed",
+        "36-50": "400mg 3x/day",
+        "13-18": "400mg 1x/day"
+      },
+      "interacts_with": [
+        "Metformin",
+        "Cetirizine",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "36-50": "650mg 2x/day",
+        "19-35": "875mg 2x/day",
+        "51+": "2 puffs as needed",
+        "13-18": "650mg as needed",
+        "0-12": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Cetirizine",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 3x/day",
+        "13-18": "100mg 2x/day",
+        "0-12": "650mg as prescribed",
+        "19-35": "600 IU as needed",
+        "51+": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Cefixime",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Aspirin",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs as prescribed",
+        "51+": "10mg as prescribed",
+        "0-12": "250mg as prescribed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 3x/day",
+        "36-50": "100mg 2x/day",
+        "0-12": "500mg 2x/day",
+        "19-35": "875mg 2x/day",
+        "51+": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Vitamin D3",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg 1x/day",
+        "19-35": "650mg as needed",
+        "51+": "250mg as needed",
+        "13-18": "875mg as needed",
+        "36-50": "600 IU as prescribed"
+      },
+      "interacts_with": [
+        "Naproxen",
+        "Dolo 650",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "51+": "600 IU as prescribed",
+        "0-12": "600 IU 1x/day",
+        "36-50": "10mg 2x/day",
+        "19-35": "500mg 2x/day"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Hydroxychloroquine"
+      ],
+      "alternatives": [
+        "Losartan"
+      ]
+    }
+  },
+  {
+    "medicine": "Cetirizine",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 2x/day",
+        "36-50": "600 IU 1x/day",
+        "0-12": "100mg 3x/day",
+        "13-18": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Metformin",
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "36-50": "100mg 1x/day",
+        "13-18": "100mg as prescribed",
+        "19-35": "100mg 2x/day",
+        "0-12": "650mg as needed",
+        "51+": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "13-18": "100mg 3x/day",
+        "19-35": "400mg as prescribed",
+        "0-12": "400mg 2x/day",
+        "51+": "10mg 2x/day",
+        "36-50": "600 IU 2x/day"
+      },
+      "interacts_with": [
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine",
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg as prescribed",
+        "36-50": "650mg as prescribed"
+      },
+      "interacts_with": [
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Salbutamol",
+    "details": {
+      "age_dosage": {
+        "0-12": "10mg 1x/day",
+        "19-35": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Losartan"
+      ],
+      "alternatives": [
+        "Naproxen",
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg as needed",
+        "0-12": "250mg 3x/day",
+        "13-18": "875mg 3x/day",
+        "51+": "400mg 3x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Amoxicillin",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU as prescribed",
+        "0-12": "500mg as prescribed",
+        "13-18": "500mg 1x/day"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "19-35": "650mg 3x/day",
+        "13-18": "650mg 1x/day",
+        "36-50": "400mg 3x/day",
+        "51+": "875mg 2x/day",
+        "0-12": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 3x/day",
+        "13-18": "600 IU as prescribed",
+        "19-35": "250mg 1x/day",
+        "0-12": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3"
+      ],
+      "alternatives": [
+        "Cetirizine",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "19-35": "875mg 2x/day",
+        "13-18": "400mg as needed",
+        "51+": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Metformin",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "0-12": "2 puffs 2x/day",
+        "36-50": "500mg 1x/day",
+        "13-18": "500mg 3x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 1x/day",
+        "51+": "250mg as prescribed",
+        "13-18": "875mg as prescribed"
+      },
+      "interacts_with": [
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Omeprazole",
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Levocetirizine",
+    "details": {
+      "age_dosage": {
+        "13-18": "2 puffs as needed",
+        "19-35": "400mg as prescribed",
+        "51+": "600 IU 2x/day",
+        "0-12": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "51+": "250mg 3x/day",
+        "13-18": "500mg 1x/day",
+        "0-12": "500mg as prescribed",
+        "19-35": "10mg 2x/day",
+        "36-50": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Amoxicillin",
+        "Aspirin",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 1x/day",
+        "13-18": "100mg 2x/day",
+        "51+": "100mg as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Azithromycin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "13-18": "600 IU as needed",
+        "0-12": "2 puffs 2x/day",
+        "51+": "600 IU 2x/day",
+        "19-35": "100mg 2x/day"
+      },
+      "interacts_with": [
+        "Paracetamol",
+        "Ranitidine"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Cefixime"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU as needed",
+        "13-18": "875mg 1x/day",
+        "0-12": "600 IU as needed",
+        "19-35": "650mg as needed"
+      },
+      "interacts_with": [
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Aspirin",
+        "Naproxen"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "0-12": "400mg as needed",
+        "13-18": "10mg as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Metformin"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU 2x/day",
+        "36-50": "600 IU as needed",
+        "19-35": "100mg 1x/day",
+        "51+": "250mg 2x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "250mg as needed",
+        "36-50": "10mg as needed",
+        "19-35": "100mg 3x/day",
+        "51+": "500mg as needed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Omeprazole",
+        "Losartan"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Metformin",
+    "details": {
+      "age_dosage": {
+        "0-12": "100mg as needed",
+        "36-50": "500mg as prescribed"
+      },
+      "interacts_with": [
+        "Paracetamol"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "13-18": "875mg 3x/day",
+        "0-12": "500mg 2x/day",
+        "36-50": "100mg 1x/day",
+        "51+": "250mg 1x/day",
+        "19-35": "100mg 1x/day"
+      },
+      "interacts_with": [
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Vitamin D3"
+      ]
+    }
+  },
+  {
+    "medicine": "Cefixime",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU 1x/day",
+        "36-50": "100mg 3x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Levocetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "13-18": "10mg as prescribed",
+        "0-12": "875mg 1x/day",
+        "51+": "250mg 2x/day",
+        "36-50": "500mg 3x/day",
+        "19-35": "600 IU 1x/day"
+      },
+      "interacts_with": [
+        "Levocetirizine"
+      ],
+      "alternatives": [
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Naproxen",
+    "details": {
+      "age_dosage": {
+        "51+": "500mg 1x/day",
+        "36-50": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Levocetirizine",
+        "Prednisone",
+        "Dolo 650"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 2x/day",
+        "13-18": "650mg as prescribed",
+        "19-35": "875mg as needed",
+        "0-12": "400mg 2x/day"
+      },
+      "interacts_with": [
+        "Hydroxychloroquine",
+        "Prednisone"
+      ],
+      "alternatives": [
+        "Salbutamol",
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "51+": "875mg 1x/day",
+        "19-35": "500mg 3x/day",
+        "0-12": "100mg 1x/day",
+        "13-18": "10mg 1x/day",
+        "36-50": "400mg as needed"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Azithromycin",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs 1x/day",
+        "36-50": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Cetirizine"
+      ]
+    }
+  },
+  {
+    "medicine": "Vitamin D3",
+    "details": {
+      "age_dosage": {
+        "51+": "10mg 2x/day",
+        "13-18": "650mg 3x/day",
+        "19-35": "2 puffs 2x/day"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Cetirizine"
+      ],
+      "alternatives": [
+        "Paracetamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Insulin",
+    "details": {
+      "age_dosage": {
+        "36-50": "250mg 3x/day",
+        "19-35": "600 IU 2x/day",
+        "51+": "500mg as needed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Amoxicillin"
+      ],
+      "alternatives": [
+        "Metformin",
+        "Aspirin"
+      ]
+    }
+  },
+  {
+    "medicine": "Losartan",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 1x/day",
+        "0-12": "650mg 2x/day",
+        "19-35": "10mg 3x/day"
+      },
+      "interacts_with": [
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "13-18": "650mg as needed",
+        "19-35": "100mg 1x/day",
+        "0-12": "500mg as needed",
+        "36-50": "600 IU 1x/day",
+        "51+": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Naproxen"
+      ],
+      "alternatives": [
+        "Loratadine",
+        "Amoxicillin"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "19-35": "100mg 1x/day",
+        "13-18": "2 puffs 1x/day"
+      },
+      "interacts_with": [
+        "Prednisone",
+        "Azithromycin"
+      ],
+      "alternatives": [
+        "Prednisone"
+      ]
+    }
+  },
+  {
+    "medicine": "Ranitidine",
+    "details": {
+      "age_dosage": {
+        "51+": "400mg 3x/day",
+        "19-35": "500mg as needed",
+        "0-12": "875mg 1x/day"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Metformin"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Ranitidine"
+      ]
+    }
+  },
+  {
+    "medicine": "Loratadine",
+    "details": {
+      "age_dosage": {
+        "36-50": "600 IU 3x/day",
+        "13-18": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Salbutamol",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Ibuprofen"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "36-50": "500mg 2x/day",
+        "19-35": "650mg 3x/day",
+        "0-12": "250mg as prescribed",
+        "51+": "10mg as needed",
+        "13-18": "600 IU as needed"
+      },
+      "interacts_with": [
+        "Omeprazole",
+        "Vitamin D3",
+        "Aspirin"
+      ],
+      "alternatives": [
+        "Salbutamol"
+      ]
+    }
+  },
+  {
+    "medicine": "Prednisone",
+    "details": {
+      "age_dosage": {
+        "36-50": "875mg 2x/day",
+        "13-18": "10mg 3x/day",
+        "0-12": "650mg 1x/day",
+        "51+": "400mg as prescribed"
+      },
+      "interacts_with": [
+        "Aspirin",
+        "Hydroxychloroquine",
+        "Salbutamol"
+      ],
+      "alternatives": [
+        "Ranitidine",
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Ibuprofen",
+    "details": {
+      "age_dosage": {
+        "51+": "100mg as needed",
+        "0-12": "10mg 3x/day",
+        "36-50": "875mg 2x/day",
+        "19-35": "250mg 3x/day",
+        "13-18": "10mg 1x/day"
+      },
+      "interacts_with": [
+        "Azithromycin",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Hydroxychloroquine"
+      ]
+    }
+  },
+  {
+    "medicine": "Amoxicillin",
+    "details": {
+      "age_dosage": {
+        "0-12": "600 IU as prescribed",
+        "13-18": "500mg 2x/day",
+        "19-35": "600 IU 3x/day"
+      },
+      "interacts_with": [
+        "Vitamin D3",
+        "Insulin",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Azithromycin",
+    "details": {
+      "age_dosage": {
+        "19-35": "10mg 2x/day",
+        "13-18": "2 puffs as prescribed"
+      },
+      "interacts_with": [
+        "Cefixime",
+        "Omeprazole"
+      ],
+      "alternatives": [
+        "Dolo 650"
+      ]
+    }
+  },
+  {
+    "medicine": "Paracetamol",
+    "details": {
+      "age_dosage": {
+        "19-35": "400mg as prescribed",
+        "36-50": "600 IU as needed",
+        "51+": "400mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen",
+        "Losartan",
+        "Loratadine"
+      ],
+      "alternatives": [
+        "Loratadine"
+      ]
+    }
+  },
+  {
+    "medicine": "Omeprazole",
+    "details": {
+      "age_dosage": {
+        "19-35": "2 puffs as needed",
+        "0-12": "875mg 1x/day",
+        "36-50": "500mg as prescribed",
+        "13-18": "500mg as needed",
+        "51+": "10mg as needed"
+      },
+      "interacts_with": [
+        "Ibuprofen"
+      ],
+      "alternatives": [
+        "Losartan",
+        "Levocetirizine"
+      ]
+    }
+  }
+]
