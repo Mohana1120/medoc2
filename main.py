@@ -8,44 +8,42 @@ text = st.text_area("📄 Paste Prescription Text", height=200)
 age = st.number_input("🎂 Patient Age", min_value=1, max_value=120)
 
 if st.button("Analyze"):
-    if not text:
-        st.warning("Please enter a prescription.")
-    else:
-        with st.spinner("Analyzing Prescription..."):
-            try:
-                res = requests.post("http://localhost:8000/analyze/", json={"text": text, "age": age})
-                if res.status_code != 200:
-                    st.error("❌ Failed to analyze prescription.")
-                else:
-                    data = res.json()
+    with st.spinner("Analyzing Prescription..."):
+        response = requests.post("http://localhost:8000/analyze/", json={"text": text, "age": age})
+        
+        if response.status_code != 200:
+            st.error("❌ Failed to analyze prescription. Server error.")
+        else:
+            result = response.json()
 
-                    st.subheader("💊 Extracted Drugs")
-                    if data["drugs"]:
-                        for drug in data["drugs"]:
-                            st.markdown(f"**🧪 Drug:** `{drug['drug']}`")
-                            st.markdown(f"**📝 Context:** {drug['context']}")
-                    else:
-                        st.info("No drugs found.")
 
-                    st.subheader("⚠️ Drug Interaction Issues")
-                    if data["issues"]:
-                        for issue in data["issues"]:
-                            st.error(f"🚫 {issue}")
-                    else:
-                        st.success("✅ No interaction issues.")
+            st.subheader("💊 Extracted Drugs")
+            if result["drugs"]:
+                for drug in result["drugs"]:
+                    with st.container():
+                        st.markdown(f"🧪 Drug Name:** {drug['drug'].title()}")
+                        st.markdown(f"📝 Context:** {drug['context']}")
+            else:
+                st.info("No drugs extracted.")
 
-                    st.subheader("📌 Dosage Recommendations")
-                    if data["recommendations"]:
-                        for rec in data["recommendations"]:
-                            st.success(f"💡 {rec}")
-                    else:
-                        st.info("No dosage recommendations.")
+    
+            st.subheader("⚠ Drug Interaction Issues")
+            if result["issues"]:
+                for issue in result["issues"]:
+                    st.error(f"🚫 {issue}")
+            else:
+                st.success("✅ No interaction issues found.")
 
-                    st.subheader("🔁 Suggested Alternatives")
-                    if data["alternatives"]:
-                        for alt in data["alternatives"]:
-                            st.info(f"🔄 {alt}")
-                    else:
-                        st.info("No alternatives suggested.")
-            except Exception as e:
-                st.error(f"Error: {str(e)}")
+            
+            st.subheader("📌 Dosage Recommendations")
+            if result["recommendations"]:
+                for rec in result["recommendations"]:
+                    st.success(f"💡 {rec}")
+            else:
+                st.info("No dosage recommendations.")
+            st.subheader("🔁 Suggested Alternatives")
+            if result["alternatives"]:
+                for alt in result["alternatives"]:
+                    st.info(f"🔄 {alt}")
+            else:
+                st.info("No alternatives suggested.")
